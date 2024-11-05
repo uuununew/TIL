@@ -144,3 +144,8 @@ map 사용하는게 편리하다.
 
 참고 : 
 [출처]https://notes1615.tistory.com/entry/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-8%EC%9D%BC%EC%B0%A8-TIL
+
+#### 🔗 문제 링크
+- 비기너: https://www.acmicpc.net/problem/25593
+- 미들러: https://www.acmicpc.net/problem/2644
+- 챌린저: https://www.acmicpc.net/problem/4485

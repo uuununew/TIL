@@ -80,3 +80,8 @@ class Solution {
 
 처음에는 '대소문자 구분없이'에만 꽂혀서 compareToIgnoreCase()를 사용했는데 이 문제는 p와 y일 때 count만 해주면 되는 문제라 저건 필요 없었다. 문제 전체를 잘 파악해야겠다.
 
+#### 🔗 문제 링크
+- 비기너: https://school.programmers.co.kr/learn/courses/30/lessons/12916
+- 미들러: https://www.acmicpc.net/problem/1072
+- 챌린저: https://www.acmicpc.net/problem/11403
+

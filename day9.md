@@ -88,3 +88,8 @@ List를 이용한 풀이
 HashSet 
 - 객체를 중복해서 저장할 수 없으며, 하나의 null 값만 저장할 수 있다.
 - 중복을 자동으로 제거해준다.
+
+#### 🔗 문제 링크
+- 비기너: https://www.acmicpc.net/problem/9933
+- 미들러: https://www.acmicpc.net/problem/7562
+- 챌린저: https://school.programmers.co.kr/learn/courses/30/lessons/77486

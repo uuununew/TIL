@@ -77,3 +77,8 @@ class Solution {
 ### 💡 회고
 
 처음에는 int형으로 선언해서 풀었는데 잘 풀리지 않았다. p의 길이가 최대 18임을 보고 Long 타입을 써야한다는 생각이 오래걸렸다.
+
+#### 🔗 문제 링크
+- 비기너: https://school.programmers.co.kr/learn/courses/30/lessons/147355
+- 미들러: https://www.acmicpc.net/problem/11561
+- 챌린저: https://www.acmicpc.net/problem/1389

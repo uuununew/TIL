@@ -95,3 +95,8 @@ class Solution {
 ### 💡 회고
 
 문제 설명을 해석(?)하는데 시간이 조금 걸렸다. 말이 조금 어려워서 그렇지 생각보다는 간단한 문제였다.
+
+#### 🔗 문제 링크
+- 비기너: https://school.programmers.co.kr/learn/courses/30/lessons/140108
+- 미들러: https://school.programmers.co.kr/learn/courses/30/lessons/43238
+- 챌린저: https://www.acmicpc.net/problem/2660
