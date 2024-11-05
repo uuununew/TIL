@@ -3,3 +3,8 @@
 - [day2](./day2.md)
 - [day3](./day3.md)
 - [day4](./day4.md)
+- [day5](./day5.md)
+- [day6](./day6.md)
+- [day7](./day7.md)
+- [day8](./day8.md)
+- [day9](./day9.md)
